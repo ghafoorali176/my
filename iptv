@@ -1,0 +1,119 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="STAR PLUS SD " tvg-logo="" group-title="Channels",STAR PLUS SD 
+http://mr-king.xyz:2052/Ammar/12345678/42871
+#EXTINF:-1 tvg-id="" tvg-name="STAR PLUS HD" tvg-logo="" group-title="Channels",STAR PLUS HD
+http://mr-king.xyz:2052/Ammar/12345678/42872
+#EXTINF:-1 tvg-id="" tvg-name="STAR BHARAT FH" tvg-logo="" group-title="Channels",STAR BHARAT FH
+http://mr-king.xyz:2052/Ammar/12345678/42882
+#EXTINF:-1 tvg-id="" tvg-name="STAR BHARAT " tvg-logo="" group-title="Channels",STAR BHARAT 
+http://mr-king.xyz:2052/Ammar/12345678/42883
+#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD HD" tvg-logo="" group-title="Channels",STAR GOLD HD
+http://mr-king.xyz:2052/Ammar/12345678/43133
+#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD " tvg-logo="" group-title="Channels",STAR GOLD 
+http://mr-king.xyz:2052/Ammar/12345678/43131
+#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD SELECT HD" tvg-logo="" group-title="Channels",STAR GOLD SELECT HD
+http://mr-king.xyz:2052/Ammar/12345678/43129
+#EXTINF:-1 tvg-id="" tvg-name="STAR JALSA HD" tvg-logo="" group-title="Channels",STAR JALSA HD
+http://mr-king.xyz:2052/Ammar/12345678/42909
+#EXTINF:-1 tvg-id="" tvg-name="STAR JALSA MOVIES HD" tvg-logo="" group-title="Channels",STAR JALSA MOVIES HD
+http://mr-king.xyz:2052/Ammar/12345678/42910
+#EXTINF:-1 tvg-id="" tvg-name="COLORS TV HD " tvg-logo="" group-title="Channels",COLORS TV HD 
+http://mr-king.xyz:2052/Ammar/12345678/42873
+#EXTINF:-1 tvg-id="" tvg-name="COLORS INFINIT" tvg-logo="" group-title="Channels",COLORS INFINIT
+http://mr-king.xyz:2052/Ammar/12345678/42940
+#EXTINF:-1 tvg-id="" tvg-name="SONY TV HD " tvg-logo="" group-title="Channels",SONY TV HD 
+http://mr-king.xyz:2052/Ammar/12345678/42877
+#EXTINF:-1 tvg-id="" tvg-name="SONY SAB TV HD " tvg-logo="" group-title="Channels",SONY SAB TV HD 
+http://mr-king.xyz:2052/Ammar/12345678/42879
+#EXTINF:-1 tvg-id="" tvg-name="SONY SAB U" tvg-logo="" group-title="Channels",SONY SAB U
+http://mr-king.xyz:2052/Ammar/12345678/42880
+#EXTINF:-1 tvg-id="" tvg-name="SONY TV HD S" tvg-logo="" group-title="Channels",SONY TV HD S
+http://mr-king.xyz:2052/Ammar/12345678/42878
+#EXTINF:-1 tvg-id="" tvg-name="RISHTEY CINE PLE" tvg-logo="" group-title="Channels",RISHTEY CINE PLE
+http://mr-king.xyz:2052/Ammar/12345678/42893
+#EXTINF:-1 tvg-id="" tvg-name="ZEE TV HD " tvg-logo="" group-title="Channels",ZEE TV HD 
+http://mr-king.xyz:2052/Ammar/12345678/42867
+#EXTINF:-1 tvg-id="" tvg-name="ZEE ACTION HD " tvg-logo="" group-title="Channels",ZEE ACTION HD 
+http://mr-king.xyz:2052/Ammar/12345678/43134
+#EXTINF:-1 tvg-id="" tvg-name="ZEE CINEMA HD " tvg-logo="" group-title="Channels",ZEE CINEMA HD 
+http://mr-king.xyz:2052/Ammar/12345678/43138
+#EXTINF:-1 tvg-id="" tvg-name="ZEE CINEMA HD" tvg-logo="" group-title="Channels",ZEE CINEMA HD
+http://mr-king.xyz:2052/Ammar/12345678/43139
+#EXTINF:-1 tvg-id="" tvg-name="ZEE CLASSIC" tvg-logo="" group-title="Channels",ZEE CLASSIC
+http://mr-king.xyz:2052/Ammar/12345678/43160
+#EXTINF:-1 tvg-id="" tvg-name="&TV HD S" tvg-logo="" group-title="Channels",&TV HD S
+http://mr-king.xyz:2052/Ammar/12345678/42887
+#EXTINF:-1 tvg-id="" tvg-name="&TV HD S" tvg-logo="" group-title="Channels",&TV HD S
+http://mr-king.xyz:2052/Ammar/12345678/42888
+#EXTINF:-1 tvg-id="" tvg-name="STAR MOVIES" tvg-logo="" group-title="Channels",STAR MOVIES
+http://mr-king.xyz:2052/Ammar/12345678/42939
+#EXTINF:-1 tvg-id="" tvg-name="STAR PREMIER HD" tvg-logo="" group-title="Channels",STAR PREMIER HD
+http://mr-king.xyz:2052/Ammar/12345678/42942
+#EXTINF:-1 tvg-id="" tvg-name="PICTURES HD " tvg-logo="" group-title="Channels",PICTURES HD 
+http://mr-king.xyz:2052/Ammar/12345678/43148
+#EXTINF:-1 tvg-id="" tvg-name="PICTURES HD" tvg-logo="" group-title="Channels",PICTURES HD
+http://mr-king.xyz:2052/Ammar/12345678/43149
+#EXTINF:-1 tvg-id="" tvg-name="MTV BEATS HD" tvg-logo="" group-title="Channels",MTV BEATS HD
+http://mr-king.xyz:2052/Ammar/12345678/46906
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC INDIA" tvg-logo="" group-title="Channels",MUSIC INDIA
+http://mr-king.xyz:2052/Ammar/12345678/42901
+#EXTINF:-1 tvg-id="" tvg-name="ZEE CINEMA" tvg-logo="" group-title="Channels",ZEE CINEMA
+http://mr-king.xyz:2052/Ammar/12345678/43137
+#EXTINF:-1 tvg-id="" tvg-name="STAR MOVIE" tvg-logo="" group-title="Channels",STAR MOVIE
+http://mr-king.xyz:2052/Ammar/12345678/43164
+#EXTINF:-1 tvg-id="" tvg-name="RISHTEY CINEPLE" tvg-logo="" group-title="Channels",RISHTEY CINEPLE
+http://mr-king.xyz:2052/Ammar/12345678/43167
+#EXTINF:-1 tvg-id="" tvg-name="&PRIVE" tvg-logo="" group-title="Channels",&PRIVE
+http://mr-king.xyz:2052/Ammar/12345678/42947
+#EXTINF:-1 tvg-id="" tvg-name="STAR WORLD PREMIE" tvg-logo="" group-title="Channels",STAR WORLD PREMIE
+http://mr-king.xyz:2052/Ammar/12345678/42951
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WIL" tvg-logo="" group-title="Channels",NAT GEO WIL
+http://mr-king.xyz:2052/Ammar/12345678/42952
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KID" tvg-logo="" group-title="Channels",DISCOVERY KID
+http://mr-king.xyz:2052/Ammar/12345678/42955
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANE" tvg-logo="" group-title="Channels",ANIMAL PLANE
+http://mr-king.xyz:2052/Ammar/12345678/42957
+#EXTINF:-1 tvg-id="" tvg-name="MAHA MOVIE" tvg-logo="" group-title="Channels",MAHA MOVIE
+http://mr-king.xyz:2052/Ammar/12345678/37920
+#EXTINF:-1 tvg-id="" tvg-name="GEO NEWS SD" tvg-logo="" group-title="Channels",GEO NEWS SD
+http://mr-king.xyz:2052/Ammar/12345678/2637
+#EXTINF:-1 tvg-id="" tvg-name="ARY NEWS HD" tvg-logo="" group-title="Channels",ARY NEWS HD
+http://mr-king.xyz:2052/Ammar/12345678/101877
+#EXTINF:-1 tvg-id="" tvg-name="DUNYA NEWS " tvg-logo="" group-title="Channels",DUNYA NEWS 
+http://mr-king.xyz:2052/Ammar/12345678/45334
+#EXTINF:-1 tvg-id="" tvg-name="SAMMA NEWS " tvg-logo="" group-title="Channels",SAMMA NEWS
+http://mr-king.xyz:2052/Ammar/12345678/2650
+#EXTINF:-1 tvg-id="" tvg-name="92 NEWS HD" tvg-logo="" group-title="Channels",92 NEWS HD
+http://mr-king.xyz:2052/Ammar/12345678/69573
+#EXTINF:-1 tvg-id="" tvg-name="EXPRESS NEWS HD" tvg-logo="" group-title="Channels",EXPRESS NEWS HD
+http://mr-king.xyz:2052/Ammar/12345678/45325
+#EXTINF:-1 tvg-id="" tvg-name="EXPRESS NEW" tvg-logo="" group-title="Channels",EXPRESS NEW
+http://mr-king.xyz:2052/Ammar/12345678/2649
+#EXTINF:-1 tvg-id="" tvg-name="HUM NEWS" tvg-logo="" group-title="Channels",HUM NEWS
+http://mr-king.xyz:2052/Ammar/12345678/45346
+#EXTINF:-1 tvg-id="" tvg-name="BOL NEWS HD" tvg-logo="" group-title="Channels",BOL NEWS HD
+http://mr-king.xyz:2052/Ammar/12345678/2638
+#EXTINF:-1 tvg-id="" tvg-name="LAHORE NEWS " tvg-logo="" group-title="Channels",LAHORE NEWS 
+http://mr-king.xyz:2052/Ammar/12345678/45350
+#EXTINF:-1 tvg-id="" tvg-name="DIN NEWS" tvg-logo="" group-title="Channels",DIN NEWS
+http://mr-king.xyz:2052/Ammar/12345678/45344
+#EXTINF:-1 tvg-id="" tvg-name="NEO NEWS HD " tvg-logo="" group-title="Channels",NEO NEWS HD 
+http://mr-king.xyz:2052/Ammar/12345678/45330
+#EXTINF:-1 tvg-id="" tvg-name="NEO NEWS HD" tvg-logo="" group-title="Channels",NEO NEWS HD
+http://mr-king.xyz:2052/Ammar/12345678/2646
+#EXTINF:-1 tvg-id="" tvg-name="CH 24 NEWS HD" tvg-logo="" group-title="Channels",CH 24 NEWS HD
+http://mr-king.xyz:2052/Ammar/12345678/2640
+#EXTINF:-1 tvg-id="" tvg-name="PUBLIC NEWS " tvg-logo="" group-title="Channels",PUBLIC NEWS 
+http://mr-king.xyz:2052/Ammar/12345678/45335
+#EXTINF:-1 tvg-id="" tvg-name="CAPITAL NEWS " tvg-logo="" group-title="Channels",CAPITAL NEWS 
+http://mr-king.xyz:2052/Ammar/12345678/45343
+#EXTINF:-1 tvg-id="" tvg-name="KHYBER NEW" tvg-logo="" group-title="Channels",KHYBER NEW
+http://mr-king.xyz:2052/Ammar/12345678/2666
+#EXTINF:-1 tvg-id="" tvg-name="GEO TEZ NEW" tvg-logo="" group-title="Channels",GEO TEZ NEW
+http://mr-king.xyz:2052/Ammar/12345678/2656
+#EXTINF:-1 tvg-id="" tvg-name="P2 PTV NEW" tvg-logo="" group-title="Channels",P2 PTV NEW
+http://mr-king.xyz:2052/Ammar/12345678/2658
+#EXTINF:-1 tvg-id="" tvg-name="CAPITAL NEW" tvg-logo="" group-title="Channels",CAPITAL NEW
+http://mr-king.xyz:2052/Ammar/12345678/2653
+#EXTINF:-1 tvg-id="" tvg-name="PUBLIC NEWS" tvg-logo="" group-title="Channels",PUBLIC NEWS
+http://mr-king.xyz:2052/Ammar/12345678/2635
