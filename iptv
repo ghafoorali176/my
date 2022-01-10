@@ -1,119 +1,392 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="STAR PLUS SD " tvg-logo="" group-title="Channels",STAR PLUS SD 
-http://mr-king.xyz:2052/Ammar/12345678/42871
-#EXTINF:-1 tvg-id="" tvg-name="STAR PLUS HD" tvg-logo="" group-title="Channels",STAR PLUS HD
+#EXTINF:-1 tvg-id="" tvg-name="IND- STAR PLUS HD" tvg-logo="http://pst.gotdns.ch/poster/indiaflag.png" group-title="India TV",IND- STAR PLUS HD
 http://mr-king.xyz:2052/Ammar/12345678/42872
-#EXTINF:-1 tvg-id="" tvg-name="STAR BHARAT FH" tvg-logo="" group-title="Channels",STAR BHARAT FH
+
+#EXTINF:-1 tvg-id="" tvg-name="IND- STAR BHARAT FHD" tvg-logo="http://62.182.85.43/poster/starbharat.jpg" group-title="India TV",IND- STAR BHARAT FHD
 http://mr-king.xyz:2052/Ammar/12345678/42882
-#EXTINF:-1 tvg-id="" tvg-name="STAR BHARAT " tvg-logo="" group-title="Channels",STAR BHARAT 
+
+#EXTINF:-1 tvg-id="" tvg-name="IND- STAR BHARAT" tvg-logo="http://62.182.85.43/poster/starbharat.jpg" group-title="India TV",IND- STAR BHARAT
 http://mr-king.xyz:2052/Ammar/12345678/42883
-#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD HD" tvg-logo="" group-title="Channels",STAR GOLD HD
+
+#EXTINF:-1 tvg-id="" tvg-name="IND- STAR GOLD HD" tvg-logo="http://62.182.85.43/poster/StarGold.jpg" group-title="India TV",IND- STAR GOLD HD
 http://mr-king.xyz:2052/Ammar/12345678/43133
-#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD " tvg-logo="" group-title="Channels",STAR GOLD 
-http://mr-king.xyz:2052/Ammar/12345678/43131
-#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD SELECT HD" tvg-logo="" group-title="Channels",STAR GOLD SELECT HD
+
+#EXTINF:-1 tvg-id="" tvg-name="IND- STAR GOLD SELECT HD" tvg-logo="http://62.182.85.43/poster/StarGold.jpg" group-title="India TV",IND- STAR GOLD SELECT HD
 http://mr-king.xyz:2052/Ammar/12345678/43129
-#EXTINF:-1 tvg-id="" tvg-name="STAR JALSA HD" tvg-logo="" group-title="Channels",STAR JALSA HD
+
+#EXTINF:-1 tvg-id="" tvg-name="IND- STAR JALSA HD" tvg-logo="http://62.182.85.43/poster/starjalshaHD.jpg" group-title="India TV",IND- STAR JALSA HD
 http://mr-king.xyz:2052/Ammar/12345678/42909
-#EXTINF:-1 tvg-id="" tvg-name="STAR JALSA MOVIES HD" tvg-logo="" group-title="Channels",STAR JALSA MOVIES HD
+
+#EXTINF:-1 tvg-id="" tvg-name="IND- STAR JALSA MOVIES HD" tvg-logo="http://62.182.85.43/poster/JalshaMovie.jpg" group-title="India TV",IND- STAR JALSA MOVIES HD
 http://mr-king.xyz:2052/Ammar/12345678/42910
-#EXTINF:-1 tvg-id="" tvg-name="COLORS TV HD " tvg-logo="" group-title="Channels",COLORS TV HD 
+
+#EXTINF:-1 tvg-id="" tvg-name="IND- COLORS TV HD S1" tvg-logo="http://pst.gotdns.ch/poster/indiaflag.png" group-title="India TV",IND- COLORS TV HD
 http://mr-king.xyz:2052/Ammar/12345678/42873
-#EXTINF:-1 tvg-id="" tvg-name="COLORS INFINIT" tvg-logo="" group-title="Channels",COLORS INFINIT
-http://mr-king.xyz:2052/Ammar/12345678/42940
-#EXTINF:-1 tvg-id="" tvg-name="SONY TV HD " tvg-logo="" group-title="Channels",SONY TV HD 
+
+#EXTINF:-1 tvg-id="" tvg-name="IND- SONY TV HD S2" tvg-logo="http://pst.gotdns.ch/poster/indiaflag.png" group-title="India TV",IND- SONY TV HD 
 http://mr-king.xyz:2052/Ammar/12345678/42877
-#EXTINF:-1 tvg-id="" tvg-name="SONY SAB TV HD " tvg-logo="" group-title="Channels",SONY SAB TV HD 
+
+#EXTINF:-1 tvg-id="" tvg-name="IND- SONY SAB TV HD S1" tvg-logo="http://pst.gotdns.ch/poster/indiaflag.png" group-title="India TV",IND- SONY SAB TV HD
 http://mr-king.xyz:2052/Ammar/12345678/42879
-#EXTINF:-1 tvg-id="" tvg-name="SONY SAB U" tvg-logo="" group-title="Channels",SONY SAB U
+
+#EXTINF:-1 tvg-id="" tvg-name="IND- SONY SAB UK" tvg-logo="http://pst.gotdns.ch/poster/indiaflag.png" group-title="India TV",IND- SONY SAB
 http://mr-king.xyz:2052/Ammar/12345678/42880
-#EXTINF:-1 tvg-id="" tvg-name="SONY TV HD S" tvg-logo="" group-title="Channels",SONY TV HD S
+
+#EXTINF:-1 tvg-id="" tvg-name="IND- SONY TV HD S3" tvg-logo="http://pst.gotdns.ch/poster/indiaflag.png" group-title="India TV",IND- SONY TV HD 
 http://mr-king.xyz:2052/Ammar/12345678/42878
-#EXTINF:-1 tvg-id="" tvg-name="RISHTEY CINE PLE" tvg-logo="" group-title="Channels",RISHTEY CINE PLE
+
+#EXTINF:-1 tvg-id="" tvg-name="IND- SONY PAL+" tvg-logo="http://pst.gotdns.ch/poster/indiaflag.png" group-title="India TV",IND- SONY PAL+
+http://mr-king.xyz:2052/Ammar/12345678/42890
+
+#EXTINF:-1 tvg-id="" tvg-name="IND- SONY WAH" tvg-logo="http://62.182.85.43/poster/ZeeAnmol.jpg" group-title="India TV",IND- SONY WAH
+http://mr-king.xyz:2052/Ammar/12345678/42892
+
+#EXTINF:-1 tvg-id="" tvg-name="IND: SONY MAX UK" tvg-logo="http://62.182.85.43/poster/SongMaxS.jpg" group-title="India TV",IND: SONY MAX UK
+http://mr-king.xyz:2052/Ammar/12345678/43140
+
+#EXTINF:-1 tvg-id="" tvg-name="IND- SONY MAX S" tvg-logo="http://62.182.85.43/poster/SongMaxS.jpg" group-title="India TV",IND- SONY MAX 
+http://mr-king.xyz:2052/Ammar/12345678/43142
+
+#EXTINF:-1 tvg-id="" tvg-name="IND- RISHTEY CINE PLEX" tvg-logo="http://62.182.85.43/poster/rishtey.jpg" group-title="India TV",IND- RISHTEY CINEPLEX
 http://mr-king.xyz:2052/Ammar/12345678/42893
-#EXTINF:-1 tvg-id="" tvg-name="ZEE TV HD " tvg-logo="" group-title="Channels",ZEE TV HD 
+
+#EXTINF:-1 tvg-id="" tvg-name="IND- ZEE TV HD" tvg-logo="http://pst.gotdns.ch/poster/indiaflag.png" group-title="India TV",IND- ZEE TV HD
 http://mr-king.xyz:2052/Ammar/12345678/42867
-#EXTINF:-1 tvg-id="" tvg-name="ZEE ACTION HD " tvg-logo="" group-title="Channels",ZEE ACTION HD 
+
+#EXTINF:-1 tvg-id="" tvg-name="IND- ZEE TV FHD" tvg-logo="http://pst.gotdns.ch/poster/indiaflag.png" group-title="India TV",IND- ZEE TV FHD
+http://mr-king.xyz:2052/Ammar/12345678/42868
+
+#EXTINF:-1 tvg-id="" tvg-name="IND- ZEE ANMOL" tvg-logo="http://pst.gotdns.ch/poster/indiaflag.png" group-title="India TV",IND- ZEE ANMOL
+http://mr-king.xyz:2052/Ammar/12345678/42891
+
+#EXTINF:-1 tvg-id="" tvg-name="IND- ZEE ACTION HD " tvg-logo="http://62.182.85.43/poster/ZEEAction.jpg" group-title="India TV",IND- ZEE ACTION HD 
 http://mr-king.xyz:2052/Ammar/12345678/43134
-#EXTINF:-1 tvg-id="" tvg-name="ZEE CINEMA HD " tvg-logo="" group-title="Channels",ZEE CINEMA HD 
+
+#EXTINF:-1 tvg-id="" tvg-name="IND- ZEE ACTION" tvg-logo="http://62.182.85.43/poster/ZEEAction.jpg" group-title="India TV",IND- ZEE ACTION
+http://mr-king.xyz:2052/Ammar/12345678/43135
+
+#EXTINF:-1 tvg-id="" tvg-name="IND- ZEE CINEMA HD S" tvg-logo="http://62.182.85.43/poster/ZEECenima.jpg" group-title="India TV",IND- ZEE CINEMA HD 
 http://mr-king.xyz:2052/Ammar/12345678/43138
-#EXTINF:-1 tvg-id="" tvg-name="ZEE CINEMA HD" tvg-logo="" group-title="Channels",ZEE CINEMA HD
+
+#EXTINF:-1 tvg-id="" tvg-name="IND- ZEE CINEMA HD" tvg-logo="http://62.182.85.43/poster/ZEECenima.jpg" group-title="India TV",IND- ZEE CINEMA HD
 http://mr-king.xyz:2052/Ammar/12345678/43139
-#EXTINF:-1 tvg-id="" tvg-name="ZEE CLASSIC" tvg-logo="" group-title="Channels",ZEE CLASSIC
+
+#EXTINF:-1 tvg-id="" tvg-name="IND- ZEE CLASSIC" tvg-logo="http://62.182.85.43/poster/zee.jpg" group-title="India TV",IND- ZEE CLASSIC
 http://mr-king.xyz:2052/Ammar/12345678/43160
-#EXTINF:-1 tvg-id="" tvg-name="&TV HD S" tvg-logo="" group-title="Channels",&TV HD S
+
+#EXTINF:-1 tvg-id="" tvg-name="IND- &amp TV HD S2" tvg-logo="http://62.182.85.43/poster/S3.jpg" group-title="India TV",IND- &TV HD 
 http://mr-king.xyz:2052/Ammar/12345678/42887
-#EXTINF:-1 tvg-id="" tvg-name="&TV HD S" tvg-logo="" group-title="Channels",&TV HD S
+
+#EXTINF:-1 tvg-id="" tvg-name="IND- &amp TV HD S3" tvg-logo="http://62.182.85.43/poster/S3.jpg" group-title="India TV",IND- &TV HD 
 http://mr-king.xyz:2052/Ammar/12345678/42888
-#EXTINF:-1 tvg-id="" tvg-name="STAR MOVIES" tvg-logo="" group-title="Channels",STAR MOVIES
+
+#EXTINF:-1 tvg-id="" tvg-name="IND- STAR MOVIES." tvg-logo="http://62.182.85.43/poster/starmovies.jpg" group-title="India TV",IND- STAR MOVIES
 http://mr-king.xyz:2052/Ammar/12345678/42939
-#EXTINF:-1 tvg-id="" tvg-name="STAR PREMIER HD" tvg-logo="" group-title="Channels",STAR PREMIER HD
+
+#EXTINF:-1 tvg-id="" tvg-name="IND- STAR WORLD" tvg-logo="http://62.182.85.43/poster/StarWorld.jpg" group-title="India TV",IND- STAR WORLD
+http://mr-king.xyz:2052/Ammar/12345678/42941
+
+#EXTINF:-1 tvg-id="" tvg-name="IND- STAR PREMIER HD" tvg-logo="http://62.182.85.43/poster/StarWorld.jpg" group-title="India TV",IND- STAR PREMIER HD
 http://mr-king.xyz:2052/Ammar/12345678/42942
-#EXTINF:-1 tvg-id="" tvg-name="PICTURES HD " tvg-logo="" group-title="Channels",PICTURES HD 
+
+#EXTINF:-1 tvg-id="" tvg-name="IND- PICTURES HD S" tvg-logo="http://pst.gotdns.ch/poster/indiaflag.png" group-title="India TV",IND- PICTURES HD 
 http://mr-king.xyz:2052/Ammar/12345678/43148
-#EXTINF:-1 tvg-id="" tvg-name="PICTURES HD" tvg-logo="" group-title="Channels",PICTURES HD
+
+#EXTINF:-1 tvg-id="" tvg-name="IND- PICTURES HD" tvg-logo="http://pst.gotdns.ch/poster/indiaflag.png" group-title="India TV",IND- PICTURES HD
 http://mr-king.xyz:2052/Ammar/12345678/43149
-#EXTINF:-1 tvg-id="" tvg-name="MTV BEATS HD" tvg-logo="" group-title="Channels",MTV BEATS HD
-http://mr-king.xyz:2052/Ammar/12345678/46906
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC INDIA" tvg-logo="" group-title="Channels",MUSIC INDIA
+
+#EXTINF:-1 tvg-id="" tvg-name="IND- 9X JALWA" tvg-logo="http://62.182.85.43/poster/jalwa9x.jpg" group-title="India TV",IND- 9X JALWA
+http://mr-king.xyz:2052/Ammar/12345678/42894
+
+#EXTINF:-1 tvg-id="" tvg-name="IND- 9XM" tvg-logo="http://62.182.85.43/poster/9xm.jpg" group-title="India TV",IND- 9XM
+http://mr-king.xyz:2052/Ammar/12345678/42895
+
+#EXTINF:-1 tvg-id="" tvg-name="IND- MASTII" tvg-logo="http://62.182.85.43/poster/mastill.jpg" group-title="India TV",IND- MASTII
+http://mr-king.xyz:2052/Ammar/12345678/42896
+
+#EXTINF:-1 tvg-id="" tvg-name="IND- MTV INDIA" tvg-logo="http://62.182.85.43/poster/MTVINdia.jpg" group-title="India TV",IND- MTV INDIA
+http://mr-king.xyz:2052/Ammar/12345678/42897
+
+#EXTINF:-1 tvg-id="" tvg-name="IND- B4U MUSIC" tvg-logo="http://62.182.85.43/poster/B4Music.jpg" group-title="India TV",IND- B4U MUSIC
+http://mr-king.xyz:2052/Ammar/12345678/42898
+
+#EXTINF:-1 tvg-id="" tvg-name="IND- ZING" tvg-logo="http://62.182.85.43/poster/Zing.jpg" group-title="India TV",IND- ZING
+http://mr-king.xyz:2052/Ammar/12345678/42900
+
+#EXTINF:-1 tvg-id="" tvg-name="IND- MUSIC INDIA" tvg-logo="http://62.182.85.43/poster/IndiaMUSIC.jpg" group-title="India TV",IND- MUSIC INDIA
 http://mr-king.xyz:2052/Ammar/12345678/42901
-#EXTINF:-1 tvg-id="" tvg-name="ZEE CINEMA" tvg-logo="" group-title="Channels",ZEE CINEMA
+
+#EXTINF:-1 tvg-id="" tvg-name="IND- ZEE CINEMA UK S" tvg-logo="http://62.182.85.43/poster/ZEECenima.jpg" group-title="India TV",IND- ZEE CINEMA HD
+http://mr-king.xyz:2052/Ammar/12345678/43136
+
+#EXTINF:-1 tvg-id="" tvg-name="IND- ZEE CINEMA UK" tvg-logo="http://62.182.85.43/poster/ZEECenima.jpg" group-title="India TV",IND- ZEE CINEMA HD
 http://mr-king.xyz:2052/Ammar/12345678/43137
-#EXTINF:-1 tvg-id="" tvg-name="STAR MOVIE" tvg-logo="" group-title="Channels",STAR MOVIE
+
+#EXTINF:-1 tvg-id="" tvg-name="IND- B4U MOVIES W" tvg-logo="http://62.182.85.43/poster/B4U.jpg" group-title="India TV",IND- B4U MOVIES 
+http://mr-king.xyz:2052/Ammar/12345678/43145
+
+#EXTINF:-1 tvg-id="" tvg-name="IND: CINEPLEX HD" tvg-logo="http://pst.gotdns.ch/poster/indiaflag.png" group-title="India TV",IND: CINEPLEX HD
+http://mr-king.xyz:2052/Ammar/12345678/43153
+
+#EXTINF:-1 tvg-id="" tvg-name="IND: STAR GOLD HD UK" tvg-logo="http://pst.gotdns.ch/poster/indiaflag.png" group-title="India TV",IND: STAR GOLD HD
+http://mr-king.xyz:2052/Ammar/12345678/43156
+
+#EXTINF:-1 tvg-id="" tvg-name="IND: MAHA MOVIES" tvg-logo="http://pst.gotdns.ch/poster/indiaflag.png" group-title="India TV",IND: MAHA MOVIES
+http://mr-king.xyz:2052/Ammar/12345678/43159
+
+#EXTINF:-1 tvg-id="" tvg-name="IND: HOUSE FULL MOVIES T" tvg-logo="http://pst.gotdns.ch/poster/indiaflag.png" group-title="India TV",IND: HOUSE FULL MOVIES 
+http://mr-king.xyz:2052/Ammar/12345678/43161
+
+#EXTINF:-1 tvg-id="" tvg-name="IND- STAR MOVIES" tvg-logo="http://62.182.85.43/poster/starmovies.jpg" group-title="India TV",IND- STAR MOVIES
 http://mr-king.xyz:2052/Ammar/12345678/43164
-#EXTINF:-1 tvg-id="" tvg-name="RISHTEY CINEPLE" tvg-logo="" group-title="Channels",RISHTEY CINEPLE
+
+#EXTINF:-1 tvg-id="" tvg-name="IND: RISHTEY EUROPE" tvg-logo="http://pst.gotdns.ch/poster/indiaflag.png" group-title="India TV",IND: RISHTEY EUROPE
+http://mr-king.xyz:2052/Ammar/12345678/43165
+
+#EXTINF:-1 tvg-id="" tvg-name="IND: RISHTEY CINE PLEX EUROPE" tvg-logo="http://pst.gotdns.ch/poster/indiaflag.png" group-title="India TV",IND: RISHTEY CINEPLEX EUROPE
+http://mr-king.xyz:2052/Ammar/12345678/43166
+
+#EXTINF:-1 tvg-id="" tvg-name="IND- RISHTEY CINEPLEX" tvg-logo="http://62.182.85.43/poster/rishteycineplex.jpg" group-title="India TV",IND- RISHTEY CINEPLEX
 http://mr-king.xyz:2052/Ammar/12345678/43167
-#EXTINF:-1 tvg-id="" tvg-name="&PRIVE" tvg-logo="" group-title="Channels",&PRIVE
+
+#EXTINF:-1 tvg-id="" tvg-name="IND: RISHTEY CINE PLEX W" tvg-logo="http://pst.gotdns.ch/poster/indiaflag.png" group-title="India TV",IND: RISHTEY CINEPLEX 
+http://mr-king.xyz:2052/Ammar/12345678/43168
+
+#EXTINF:-1 tvg-id="" tvg-name="IND: CINE MAX" tvg-logo="http://pst.gotdns.ch/poster/indiaflag.png" group-title="India TV",IND: CINE MAX
+http://mr-king.xyz:2052/Ammar/12345678/43169
+
+#EXTINF:-1 tvg-id="" tvg-name="IND- ZEE CAFE" tvg-logo="http://62.182.85.43/poster/zeecafe.jpg" group-title="India TV",IND- ZEE CAFE
+http://mr-king.xyz:2052/Ammar/12345678/42945
+
+#EXTINF:-1 tvg-id="" tvg-name="IND- &amp FLIX" tvg-logo="http://62.182.85.43/poster/&amp;flix.jpg" group-title="India TV",IND- &FLIX
+http://mr-king.xyz:2052/Ammar/12345678/42946
+
+#EXTINF:-1 tvg-id="" tvg-name="IND- &amp PRIVE" tvg-logo="http://62.182.85.43/poster/&amp;PrivateHD.jpg" group-title="India TV",IND- &PRIVE
 http://mr-king.xyz:2052/Ammar/12345678/42947
-#EXTINF:-1 tvg-id="" tvg-name="STAR WORLD PREMIE" tvg-logo="" group-title="Channels",STAR WORLD PREMIE
+
+#EXTINF:-1 tvg-id="" tvg-name="IND- ROMEDY NOW" tvg-logo="http://62.182.85.43/poster/Romedy.jpg" group-title="India TV",IND- ROMEDY NOW
+http://mr-king.xyz:2052/Ammar/12345678/42950
+
+#EXTINF:-1 tvg-id="" tvg-name="IND- STAR WORLD PREMIER" tvg-logo="http://62.182.85.43/poster/StarWorld.jpg" group-title="India TV",IND- STAR WORLD PREMIER
 http://mr-king.xyz:2052/Ammar/12345678/42951
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WIL" tvg-logo="" group-title="Channels",NAT GEO WIL
+
+#EXTINF:-1 tvg-id="" tvg-name="IND- NAT GEO WILD" tvg-logo="http://62.182.85.43/poster/nationalgeographicWild.jpg" group-title="India TV",IND- NAT GEO WILD
 http://mr-king.xyz:2052/Ammar/12345678/42952
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KID" tvg-logo="" group-title="Channels",DISCOVERY KID
+
+#EXTINF:-1 tvg-id="" tvg-name="IND- NAT GEO HD" tvg-logo="http://62.182.85.43/poster/nationalgeographic.jpg" group-title="India TV",IND- NAT GEO HD
+http://mr-king.xyz:2052/Ammar/12345678/42953
+
+#EXTINF:-1 tvg-id="" tvg-name="IND- DISCOVERY" tvg-logo="http://62.182.85.43/poster/Discovery.jpg" group-title="India TV",IND- DISCOVERY
+http://mr-king.xyz:2052/Ammar/12345678/42954
+
+#EXTINF:-1 tvg-id="" tvg-name="IND- DISCOVERY KIDS" tvg-logo="http://62.182.85.43/poster/DiscoveryKids.jpg" group-title="India TV",IND- DISCOVERY KIDS
 http://mr-king.xyz:2052/Ammar/12345678/42955
-#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANE" tvg-logo="" group-title="Channels",ANIMAL PLANE
+
+#EXTINF:-1 tvg-id="" tvg-name="IND- HISTORY HD" tvg-logo="http://62.182.85.43/poster/History.jpg" group-title="India TV",IND- HISTORY HD
+http://mr-king.xyz:2052/Ammar/12345678/42956
+
+#EXTINF:-1 tvg-id="" tvg-name="IND- ANIMAL PLANET" tvg-logo="http://62.182.85.43/poster/animalplanet.jpg" group-title="India TV",IND- ANIMAL PLANET
 http://mr-king.xyz:2052/Ammar/12345678/42957
-#EXTINF:-1 tvg-id="" tvg-name="MAHA MOVIE" tvg-logo="" group-title="Channels",MAHA MOVIE
+
+#EXTINF:-1 tvg-id="" tvg-name="IND- MAHA MOVIES" tvg-logo="http://pst.gotdns.ch/poster/indiaflag.png" group-title="India TV",IND- MAHA MOVIES
 http://mr-king.xyz:2052/Ammar/12345678/37920
-#EXTINF:-1 tvg-id="" tvg-name="GEO NEWS SD" tvg-logo="" group-title="Channels",GEO NEWS SD
+
+#EXTINF:-1 tvg-id="" tvg-name="IND- WOW CINEMA" tvg-logo="http://pst.gotdns.ch/poster/indiaflag.png" group-title="India TV",IND- WOW CINEMA
+http://mr-king.xyz:2052/Ammar/12345678/37921
+
+#EXTINF:-1 tvg-id="" tvg-name="PK- ARY DIGITAL HD" tvg-logo="http://62.182.85.43/poster/ARYGITALHD.jpg" group-title="Pakistan TV",PK- ARY DIGITAL HD
+http://mr-king.xyz:2052/Ammar/12345678/57955
+
+#EXTINF:-1 tvg-id="" tvg-name="PK- ARY DIGITAL +" tvg-logo="http://62.182.85.43/poster/arydigital.jpg" group-title="Pakistan TV",PK- ARY DIGITAL +
+http://mr-king.xyz:2052/Ammar/12345678/2696
+
+#EXTINF:-1 tvg-id="" tvg-name="PK- HUM TV HD" tvg-logo="http://62.182.85.43/poster/humtv.jpg" group-title="Pakistan TV",PK- HUM TV HD
+http://mr-king.xyz:2052/Ammar/12345678/2676
+
+#EXTINF:-1 tvg-id="" tvg-name="PK- HUM SITARAY" tvg-logo="http://62.182.85.43/poster/SITARAY.jpg" group-title="Pakistan TV",PK- HUM SITARAY
+http://mr-king.xyz:2052/Ammar/12345678/2679
+
+#EXTINF:-1 tvg-id="" tvg-name="PK- HUM MASALA" tvg-logo="http://62.182.85.43/poster/hummsala.jpg" group-title="Pakistan TV",PK- HUM MASALA
+http://mr-king.xyz:2052/Ammar/12345678/2687
+
+#EXTINF:-1 tvg-id="" tvg-name="PK- ARY ZINDAGI" tvg-logo="http://62.182.85.43/poster/aryzindagi.jpg" group-title="Pakistan TV",PK- ARY ZINDAGI
+http://mr-king.xyz:2052/Ammar/12345678/2697
+
+#EXTINF:-1 tvg-id="" tvg-name="PK- ARY FAMILY" tvg-logo="http://62.182.85.43/poster/aryfamily.jpg" group-title="Pakistan TV",PK- ARY FAMILY
+http://mr-king.xyz:2052/Ammar/12345678/2669
+
+#EXTINF:-1 tvg-id="" tvg-name="PK- TV ONE" tvg-logo="http://62.182.85.43/poster/tv1.jpg" group-title="Pakistan TV",PK- TV ONE
+http://mr-king.xyz:2052/Ammar/12345678/2688
+
+#EXTINF:-1 tvg-id="" tvg-name="PK- BOL ENTERTAINMENT" tvg-logo="http://62.182.85.43/poster/bolentertainment.jpg" group-title="Pakistan TV",PK- BOL ENTERTAINMENT
+http://mr-king.xyz:2052/Ammar/12345678/2699
+
+#EXTINF:-1 tvg-id="" tvg-name="PK- GEO ENTERMENT HD UK" tvg-logo="http://62.182.85.43/poster/GEO.jpg" group-title="Pakistan TV",PK- GEO ENTERMENT HD UK
+http://mr-king.xyz:2052/Ammar/12345678/2672
+
+#EXTINF:-1 tvg-id="" tvg-name="PK- GEO KAHANI HD" tvg-logo="http://62.182.85.43/poster/GEOkahani.jpg" group-title="Pakistan TV",PK- GEO KAHANI HD
+http://mr-king.xyz:2052/Ammar/12345678/2673
+
+#EXTINF:-1 tvg-id="" tvg-name="PK- GEO ENTERTAINMENT UK" tvg-logo="http://62.182.85.43/poster/GEO.jpg" group-title="Pakistan TV",PK- GEO ENTERTAINMENT UK
+http://mr-king.xyz:2052/Ammar/12345678/2674
+
+#EXTINF:-1 tvg-id="" tvg-name="PK- GEO KAHANI UK" tvg-logo="http://62.182.85.43/poster/GEOkahani.jpg" group-title="Pakistan TV",PK- GEO KAHANI UK
+http://mr-king.xyz:2052/Ammar/12345678/2675
+
+#EXTINF:-1 tvg-id="" tvg-name="PK- EXPRESS ENTERTAINMENT" tvg-logo="http://62.182.85.43/poster/exprsess.jpg" group-title="Pakistan TV",PK- EXPRESS ENTERTAINMENT
+http://mr-king.xyz:2052/Ammar/12345678/2700
+
+#EXTINF:-1 tvg-id="" tvg-name="PK- ARY QTV" tvg-logo="http://62.182.85.43/poster/QTV.jpg" group-title="Pakistan TV",PK- ARY QTV
+http://mr-king.xyz:2052/Ammar/12345678/25147
+
+#EXTINF:-1 tvg-id="" tvg-name="PK- A1 TV ENTERTAINMENT" tvg-logo="http://62.182.85.43/poster/A1.jpg" group-title="Pakistan TV",PK- A1 TV ENTERTAINMENT
+http://mr-king.xyz:2052/Ammar/12345678/53692
+
+#EXTINF:-1 tvg-id="" tvg-name="PK- DHANAK TV" tvg-logo="http://62.182.85.43/poster/dhanaktv.jpg" group-title="Pakistan TV",PK- DHANAK TV
+http://mr-king.xyz:2052/Ammar/12345678/53721
+
+#EXTINF:-1 tvg-id="" tvg-name="PK- ZINDAGI TV" tvg-logo="http://62.182.85.43/poster/zindagitv.jpg" group-title="Pakistan TV",PK- ZINDAGI TV
+http://mr-king.xyz:2052/Ammar/12345678/53723
+
+#EXTINF:-1 tvg-id="" tvg-name="PK- ARY MUSIK" tvg-logo="http://62.182.85.43/poster/arymusik.jpg" group-title="Pakistan TV",PK- ARY MUSIK
+http://mr-king.xyz:2052/Ammar/12345678/33405
+
+#EXTINF:-1 tvg-id="" tvg-name="PK- PAIGHAM TV" tvg-logo="http://pst.gotdns.ch/poster/pkaistanflag.jpg" group-title="Pakistan TV",PK- PAIGHAM TV
+http://mr-king.xyz:2052/Ammar/12345678/13099
+
+#EXTINF:-1 tvg-id="" tvg-name="PK- PEACE TV URDU" tvg-logo="http://62.182.85.43/poster/PeaceTV.jpg" group-title="Pakistan TV",PK- PEACE TV URDU
+http://mr-king.xyz:2052/Ammar/12345678/13097
+
+#EXTINF:-1 tvg-id="" tvg-name="PK- MADNI TV" tvg-logo="http://62.182.85.43/poster/MadniTV.jpg" group-title="Pakistan TV",PK- MADNI TV
+http://mr-king.xyz:2052/Ammar/12345678/13096
+
+#EXTINF:-1 tvg-id="" tvg-name="PK- WASEEB*" tvg-logo="http://62.182.85.43/poster/waseb.jpg" group-title="Pakistan TV",PK- WASEEB
+http://mr-king.xyz:2052/Ammar/12345678/2667
+
+#EXTINF:-1 tvg-id="" tvg-name="PK- A-PLUS" tvg-logo="http://62.182.85.43/poster/aplus.jpg" group-title="Pakistan TV",PK- A-PLUS
+http://mr-king.xyz:2052/Ammar/12345678/2680
+
+#EXTINF:-1 tvg-id="" tvg-name="PK- APLUS TV UK" tvg-logo="http://62.182.85.43/poster/aplus.jpg" group-title="Pakistan TV",PK- APLUS TV UK
+http://mr-king.xyz:2052/Ammar/12345678/2683
+
+#EXTINF:-1 tvg-id="" tvg-name="PK- PTV HOME" tvg-logo="http://62.182.85.43/poster/ptvhome.jpg" group-title="Pakistan TV",PK- PTV HOME
+http://mr-king.xyz:2052/Ammar/12345678/2691
+
+#EXTINF:-1 tvg-id="" tvg-name="PK- PTV GLOBAL UK" tvg-logo="http://62.182.85.43/poster/ptv.jpg" group-title="Pakistan TV",PK- PTV GLOBAL UK
+http://mr-king.xyz:2052/Ammar/12345678/2681
+
+#EXTINF:-1 tvg-id="" tvg-name="PK- PTV PRIME UK" tvg-logo="http://62.182.85.43/poster/primetv.jpg" group-title="Pakistan TV",PK- PTV PRIME UK
+http://mr-king.xyz:2052/Ammar/12345678/2682
+
+#EXTINF:-1 tvg-id="" tvg-name="PK- PTV GLOBAL" tvg-logo="http://62.182.85.43/poster/ptv.jpg" group-title="Pakistan TV",PK- PTV GLOBAL
+http://mr-king.xyz:2052/Ammar/12345678/2702
+
+#EXTINF:-1 tvg-id="" tvg-name="PK- URDU 1 HD" tvg-logo="http://62.182.85.43/poster/urdu1.jpg" group-title="Pakistan TV",PK- URDU 1 HD
+http://mr-king.xyz:2052/Ammar/12345678/2686
+
+#EXTINF:-1 tvg-id="" tvg-name="PK- URDU 1" tvg-logo="http://62.182.85.43/poster/urdu1.jpg" group-title="Pakistan TV",PK- URDU 1
+http://mr-king.xyz:2052/Ammar/12345678/2704
+
+#EXTINF:-1 tvg-id="" tvg-name="PK- AAJ ENTERTAINMENT" tvg-logo="http://62.182.85.43/poster/aajenter.jpg" group-title="Pakistan TV",PK- AAJ ENTERTAINMENT
+http://mr-king.xyz:2052/Ammar/12345678/2685
+
+#EXTINF:-1 tvg-id="" tvg-name="PK- SINDH ENTERTENMENT" tvg-logo="http://62.182.85.43/poster/sindgh.jpg" group-title="Pakistan TV",PK- SINDH ENTERTENMENT
+http://mr-king.xyz:2052/Ammar/12345678/2694
+
+#EXTINF:-1 tvg-id="" tvg-name="PK- ATV" tvg-logo="http://62.182.85.43/poster/atv.jpg" group-title="Pakistan TV",PK- ATV
+http://mr-king.xyz:2052/Ammar/12345678/2698
+
+#EXTINF:-1 tvg-id="" tvg-name="PK- PASHTO ONE*" tvg-logo="http://62.182.85.43/poster/pashto1.jpg" group-title="Pakistan TV",PK- PASHTO ONE
+http://mr-king.xyz:2052/Ammar/12345678/2693
+
+#EXTINF:-1 tvg-id="" tvg-name="PK- KHYBER TV" tvg-logo="http://62.182.85.43/poster/KhyberTv.jpg" group-title="Pakistan TV",PK- KHYBER TV
+http://mr-king.xyz:2052/Ammar/12345678/2664
+#EXTINF:-1 tvg-id="" tvg-name="PK- GEO NEWS " tvg-logo="http://62.182.85.43/poster/geonews.jpg" group-title="Pakistan News",PK- GEO NEWS 
 http://mr-king.xyz:2052/Ammar/12345678/2637
-#EXTINF:-1 tvg-id="" tvg-name="ARY NEWS HD" tvg-logo="" group-title="Channels",ARY NEWS HD
+
+#EXTINF:-1 tvg-id="" tvg-name="PK- ARY NEWS HD" tvg-logo="http://62.182.85.43/poster/aryNews.jpg" group-title="Pakistan News",PK- ARY NEWS HD
 http://mr-king.xyz:2052/Ammar/12345678/101877
-#EXTINF:-1 tvg-id="" tvg-name="DUNYA NEWS " tvg-logo="" group-title="Channels",DUNYA NEWS 
+
+#EXTINF:-1 tvg-id="" tvg-name="PK- DUNYA NEWS +�s" tvg-logo="http://62.182.85.43/poster/duniyanews.jpg" group-title="Pakistan News",PK- DUNYA NEWS
 http://mr-king.xyz:2052/Ammar/12345678/45334
-#EXTINF:-1 tvg-id="" tvg-name="SAMMA NEWS " tvg-logo="" group-title="Channels",SAMMA NEWS
+
+#EXTINF:-1 tvg-id="" tvg-name="PK- SAMMA NEWS +�s" tvg-logo="http://62.182.85.43/poster/samaatv003.jpg" group-title="Pakistan News",PK- SAMMA NEWS
 http://mr-king.xyz:2052/Ammar/12345678/2650
-#EXTINF:-1 tvg-id="" tvg-name="92 NEWS HD" tvg-logo="" group-title="Channels",92 NEWS HD
+
+#EXTINF:-1 tvg-id="" tvg-name="PK- GNN FHD+�s" tvg-logo="http://62.182.85.43/poster/GNN.jpg" group-title="Pakistan News",PK- GNN FHD
+http://mr-king.xyz:2052/Ammar/12345678/2636
+
+#EXTINF:-1 tvg-id="" tvg-name="PK- 92 NEWS HD" tvg-logo="http://62.182.85.43/poster/92News.jpg" group-title="Pakistan News",PK- 92 NEWS HD
 http://mr-king.xyz:2052/Ammar/12345678/69573
-#EXTINF:-1 tvg-id="" tvg-name="EXPRESS NEWS HD" tvg-logo="" group-title="Channels",EXPRESS NEWS HD
+
+#EXTINF:-1 tvg-id="" tvg-name="PK- 92 NEWS HD" tvg-logo="http://62.182.85.43/poster/92News.jpg" group-title="Pakistan News",PK- 92 NEWS HD
+http://mr-king.xyz:2052/Ammar/12345678/2631
+
+#EXTINF:-1 tvg-id="" tvg-name="PK- EXPRESS NEWS HD+�s" tvg-logo="http://62.182.85.43/poster/expressnews.jpg" group-title="Pakistan News",PK- EXPRESS NEWS HD
 http://mr-king.xyz:2052/Ammar/12345678/45325
-#EXTINF:-1 tvg-id="" tvg-name="EXPRESS NEW" tvg-logo="" group-title="Channels",EXPRESS NEW
+
+#EXTINF:-1 tvg-id="" tvg-name="PK- EXPRESS NEWS" tvg-logo="http://pst.gotdns.ch/poster/pkaistanflag.jpg" group-title="Pakistan News",PK- EXPRESS NEWS
 http://mr-king.xyz:2052/Ammar/12345678/2649
-#EXTINF:-1 tvg-id="" tvg-name="HUM NEWS" tvg-logo="" group-title="Channels",HUM NEWS
+
+#EXTINF:-1 tvg-id="" tvg-name="PK- HUM NEWS.�s" tvg-logo="http://62.182.85.43/poster/humnews.jpg" group-title="Pakistan News",PK- HUM NEWS
 http://mr-king.xyz:2052/Ammar/12345678/45346
-#EXTINF:-1 tvg-id="" tvg-name="BOL NEWS HD" tvg-logo="" group-title="Channels",BOL NEWS HD
+
+#EXTINF:-1 tvg-id="" tvg-name="PK- BOL NEWS HD*�s" tvg-logo="http://62.182.85.43/poster/bolnews.jpg" group-title="Pakistan News",PK- BOL NEWS HD
 http://mr-king.xyz:2052/Ammar/12345678/2638
-#EXTINF:-1 tvg-id="" tvg-name="LAHORE NEWS " tvg-logo="" group-title="Channels",LAHORE NEWS 
+
+#EXTINF:-1 tvg-id="" tvg-name="PK- LAHORE NEWS +�s" tvg-logo="http://62.182.85.43/poster/lahorenews.jpg" group-title="Pakistan News",PK- LAHORE NEWS 
 http://mr-king.xyz:2052/Ammar/12345678/45350
-#EXTINF:-1 tvg-id="" tvg-name="DIN NEWS" tvg-logo="" group-title="Channels",DIN NEWS
+
+#EXTINF:-1 tvg-id="" tvg-name="PK- DIN NEWS�s" tvg-logo="http://62.182.85.43/poster/dinnews.jpg" group-title="Pakistan News",PK- DIN NEWS
 http://mr-king.xyz:2052/Ammar/12345678/45344
-#EXTINF:-1 tvg-id="" tvg-name="NEO NEWS HD " tvg-logo="" group-title="Channels",NEO NEWS HD 
-http://mr-king.xyz:2052/Ammar/12345678/45330
-#EXTINF:-1 tvg-id="" tvg-name="NEO NEWS HD" tvg-logo="" group-title="Channels",NEO NEWS HD
+
+#EXTINF:-1 tvg-id="" tvg-name="PK- NEO NEWS HD*" tvg-logo="http://62.182.85.43/poster/newsone.jpg" group-title="Pakistan News",PK- NEO NEWS HD
 http://mr-king.xyz:2052/Ammar/12345678/2646
-#EXTINF:-1 tvg-id="" tvg-name="CH 24 NEWS HD" tvg-logo="" group-title="Channels",CH 24 NEWS HD
+
+#EXTINF:-1 tvg-id="" tvg-name="PK- CH 24 NEWS HD*" tvg-logo="http://62.182.85.43/poster/24NewsHD.jpg" group-title="Pakistan News",PK- CH 24 NEWS HD
 http://mr-king.xyz:2052/Ammar/12345678/2640
-#EXTINF:-1 tvg-id="" tvg-name="PUBLIC NEWS " tvg-logo="" group-title="Channels",PUBLIC NEWS 
+
+#EXTINF:-1 tvg-id="" tvg-name="PK- NEWS ONE" tvg-logo="http://62.182.85.43/poster/newsone.jpg" group-title="Pakistan News",PK- NEWS ONE
+http://mr-king.xyz:2052/Ammar/12345678/45355
+
+#EXTINF:-1 tvg-id="" tvg-name="PK- NEWS ONE*" tvg-logo="http://62.182.85.43/poster/newsone.jpg" group-title="Pakistan News",PK- NEWS ONE
+http://mr-king.xyz:2052/Ammar/12345678/2643
+
+#EXTINF:-1 tvg-id="" tvg-name="PK- PUBLIC NEWS S1" tvg-logo="http://62.182.85.43/poster/s1.jpg" group-title="Pakistan News",PK- PUBLIC NEWS
 http://mr-king.xyz:2052/Ammar/12345678/45335
-#EXTINF:-1 tvg-id="" tvg-name="CAPITAL NEWS " tvg-logo="" group-title="Channels",CAPITAL NEWS 
+
+#EXTINF:-1 tvg-id="" tvg-name="PK- CAPITAL NEWS PK" tvg-logo="http://62.182.85.43/poster/capital.jpg" group-title="Pakistan News",PK- CAPITAL NEWS PK
 http://mr-king.xyz:2052/Ammar/12345678/45343
-#EXTINF:-1 tvg-id="" tvg-name="KHYBER NEW" tvg-logo="" group-title="Channels",KHYBER NEW
+
+#EXTINF:-1 tvg-id="" tvg-name="PK- CITY 41 HD" tvg-logo="http://62.182.85.43/poster/city41.jpg" group-title="Pakistan News",PK- CITY 41 HD
+http://mr-king.xyz:2052/Ammar/12345678/45359
+
+#EXTINF:-1 tvg-id="" tvg-name="PK- CITY 42 HD" tvg-logo="http://62.182.85.43/poster/city42news.jpg" group-title="Pakistan News",PK- CITY 42 HD
+http://mr-king.xyz:2052/Ammar/12345678/45360
+
+#EXTINF:-1 tvg-id="" tvg-name="PK- KHYBER NEWS" tvg-logo="http://62.182.85.43/poster/khabernews.jpg" group-title="Pakistan News",PK- KHYBER NEWS
 http://mr-king.xyz:2052/Ammar/12345678/2666
-#EXTINF:-1 tvg-id="" tvg-name="GEO TEZ NEW" tvg-logo="" group-title="Channels",GEO TEZ NEW
+
+#EXTINF:-1 tvg-id="" tvg-name="PK- SINDH NEWS" tvg-logo="http://62.182.85.43/poster/sindhtv.jpg" group-title="Pakistan News",PK- SINDH NEWS
+http://mr-king.xyz:2052/Ammar/12345678/2665
+
+#EXTINF:-1 tvg-id="" tvg-name="PK- GEO TEZ NEWS" tvg-logo="http://62.182.85.43/poster/geotez.jpg" group-title="Pakistan News",PK- GEO TEZ NEWS
 http://mr-king.xyz:2052/Ammar/12345678/2656
-#EXTINF:-1 tvg-id="" tvg-name="P2 PTV NEW" tvg-logo="" group-title="Channels",P2 PTV NEW
+
+#EXTINF:-1 tvg-id="" tvg-name="PK- P2 PTV NEWS" tvg-logo="http://62.182.85.43/poster/ptv.jpg" group-title="Pakistan News",PK- P2 PTV NEWS
 http://mr-king.xyz:2052/Ammar/12345678/2658
-#EXTINF:-1 tvg-id="" tvg-name="CAPITAL NEW" tvg-logo="" group-title="Channels",CAPITAL NEW
+
+#EXTINF:-1 tvg-id="" tvg-name="PK- GEO TEZZ" tvg-logo="http://62.182.85.43/poster/geotez.jpg" group-title="Pakistan News",PK- GEO TEZZ
+http://mr-king.xyz:2052/Ammar/12345678/2655
+
+#EXTINF:-1 tvg-id="" tvg-name="PK- CAPITAL NEWS" tvg-logo="http://62.182.85.43/poster/capital.jpg" group-title="Pakistan News",PK- CAPITAL NEWS
 http://mr-king.xyz:2052/Ammar/12345678/2653
-#EXTINF:-1 tvg-id="" tvg-name="PUBLIC NEWS" tvg-logo="" group-title="Channels",PUBLIC NEWS
+
+#EXTINF:-1 tvg-id="" tvg-name="PK- PUBLIC NEWS*" tvg-logo="http://62.182.85.43/poster/publicnews.jpg" group-title="Pakistan News",PK- PUBLIC NEWS
 http://mr-king.xyz:2052/Ammar/12345678/2635
+
+#EXTINF:-1 tvg-id="" tvg-name="PK- DAWN NEWS" tvg-logo="http://62.182.85.43/poster/dawnnews.jpg" group-title="Pakistan News",PK- DAWN NEWS
+http://mr-king.xyz:2052/Ammar/12345678/2647
+
+#EXTINF:-1 tvg-id="" tvg-name="PK- AAJ NEWS" tvg-logo="http://62.182.85.43/poster/AajNews.jpg" group-title="Pakistan News",PK- AAJ NEWS
+http://mr-king.xyz:2052/Ammar/12345678/2639
